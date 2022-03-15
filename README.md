@@ -9,6 +9,17 @@ Junior ML Engineer with one year of commertial experience. In general, mostly wo
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexvishnevskiy&layout=compact"/></a>
 </p>
 
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexvishnevskiy/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexvishnevskiy/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexvishnevskiy/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alexvishnevskiy/discussion/light" />
+</p>
+
+<p align="center">
+   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/alexvishnevskiy" />
+</p>
+
 <p align='center'>
    📫 How to reach me: <a href='mailto:mrflowy043@gmail.com'>mrflowy043@gmail.com</a>
 </p>
