@@ -1,5 +1,5 @@
 # Hi, I'm Alexander 👋
-Junior ML Engineer with one year of commertial experience. In general, mostly worked with NLP and classical ML but have a good knowledge of CV. Planning to learn RL.
+Junior ML Engineer with one year of commercial experience. In general, mostly worked with NLP and classical ML but have a good knowledge of CV. Planning to learn RL.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=alexvishnevskiy&count_private=true"><img
