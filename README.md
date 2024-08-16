@@ -1,5 +1,5 @@
 # Hi, I'm Alexander 👋
-Junior ML Engineer with one year of commercial experience. In general, mostly worked with NLP and classical ML but have a good knowledge of CV. Planning to learn RL.
+ML Engineer with one year of commercial experience. In general, mostly worked with NLP and classical ML but have a good knowledge of CV. Planning to learn RL.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=alexvishnevskiy&count_private=true"><img
@@ -10,7 +10,7 @@ Junior ML Engineer with one year of commercial experience. In general, mostly wo
 </p>
 
 <p align='center'>
-   📫 How to reach me: <a href='mailto:mrflowy043@gmail.com'>mrflowy043@gmail.com</a>
+   📫 How to reach me: <a href='mailto:alex.a.vishnevskiy@gmail.com'>alex.a.vishnevskiy@gmail.com</a>
 </p>
 <p align='center'>
     Telegram: <a href="https://telegram.im/@sashnevskiy" target="_blank">@sashnevskiy</a>
@@ -18,14 +18,14 @@ Junior ML Engineer with one year of commercial experience. In general, mostly wo
 
 
 ### Key points
-*   Internship in Tiknoff AI Lab. Worked on transaction scoring using recurrent neural network. Improved score by ~0.02 ROC-AUC.
+*   Working in Cerebras Systems. Mainly focused on RAG, Agents, and Alignment.
 *   Internship in Alibaba. Worked on product matching. Implemented and trained model that finds similar items based on item description.
-*   Creator of [wildberries parser](https://magnetxx.herokuapp.com/). Website that parses wildberries.ru and gives the actual information about the products that are similar to the seller's product.
+*   Internship in Tiknoff AI Lab. Worked on transaction scoring using recurrent neural network. Improved score by ~0.02 ROC-AUC.
 
 ## 🛠 Technical Stack
-*   Python/C++/Javascript languages
-*   Pytorch/NumPy/Pandas/Scikit-learn
-*   MySQL/PostgreSQL
+*   Python/Go/C++/Javascript languages
+*   Pytorch/Transformers/NumPy/Pandas/Scikit-learn
+*   MySQL/Spark/PostgreSQL
 *   Airflow/Docker
 *   GitHub/GitLab
 
